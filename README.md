@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @CoDeyooo
-- 👀 I’m interested in Web,Game and App development
-- 🌱 I’m currently learning ASP.NET core
-- 💞️ I’m currently looking to collaborate on Blazor or Xamarin projects
+- 👀 I’m interested in Web, Game and App development
+- 🌱 I’m currently learning Unity
+- 💞️ I’m currently looking to collaborate on Unity or Unreal Engine projects
 - 📫 How to reach me - https://www.linkedin.com/in/terziyskideyan/
 
 <!---
